@@ -89,7 +89,7 @@ Upon entering any of these folders, you will find subfolders named CC-aggregate,
 
 Inside a country’s folder, you will find up to four additional subfolders, which separate the country’s data according to the type of survey used to collect the information. The number of subfolders may vary depending on how many types of surveys were conducted in that country at that stage.
 
-**As a clarification, within the first stage, in addition to the country-specific subfolders, you will also find a subfolder named twitter. This folder contains the data from countries where Twitter was used at some point as a method for collecting survey responses. These datasets include different variables, which are:
+**As a clarification, within the first stage, in addition to the country-specific subfolders, you will also find a subfolder named twitter. This folder contains the data from countries where Twitter was used at some point as a method for collecting survey responses. Only aggregated survey data are included in these datasets; no individual-level Twitter responses are provided. Each row summarizes the responses collected for a given survey, including the number of answers and the percentage of responses in each category. The variables included are:
 
 	- Country: ISO letters of the country.
 
